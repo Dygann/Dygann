@@ -1,16 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Привет!%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="header" />
-
-# Меня зовут **Dygann**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Студентка+Университета+ИТМО+🎓;Python+%7C+JavaScript+%7C+Node.js;Создаю+красивые+сайты+на+React+💻;Всегда+учусь+и+расту+🚀" alt="Typing SVG" />
-
-<br>
-
-<img src="https://picsum.photos/id/0/900/320" width="85%" style="border-radius:16px" alt="Рабочее место" />
-
-</div>
+<div align="center"> <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=320&fit=crop" width="100%" alt="Программирование" /> <br> <h1>✦ &nbsp;Dygann&nbsp; ✦</h1>
+<sub>─────  <b>@Dygann</b>  ─────</sub>
+<br> <img src="https://img.shields.io/badge/Университет-ИТМО-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="ИТМО" /> <img src="https://img.shields.io/badge/Роль-Разработчик-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Разработчик" /> <img src="https://img.shields.io/badge/Стек-Python_·_JS_·_React-181717?style=for-the-badge&logo=github&logoColor=white" alt="Стек" /> <br> <blockquote> <i>Создаю надёжные и продуманные цифровые решения:<br>от серверной логики до интерфейса.</i> </blockquote> <br> </div>
 
 ---
 
